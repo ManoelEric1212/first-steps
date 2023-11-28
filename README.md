@@ -15,7 +15,7 @@ expo start --tunnel
 
 <a>https://reactnavigation.org/docs/bottom-tab-navigator</a>
 
-
+```js
 import Home from "./src/screens/Home";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { NavigationContainer } from "@react-navigation/native";
@@ -51,6 +51,9 @@ export default function App() {
     </NavigationContainer>
   );
 }
+
+```
+
 
 ## Versão com Tab e lista de toDo
 - Index
