@@ -5,7 +5,7 @@ import { styles } from "./styles";
 export default function About() {
   return (
     <View style={styles.container}>
-      <Text>Testando primeira renderização do aphpgvyhvgcg</Text>
+      <Text>About simples do app</Text>
       <StatusBar style="auto" />
     </View>
   );
