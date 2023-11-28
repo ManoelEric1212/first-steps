@@ -1,5 +1,11 @@
 # Minicurso React Native
-## Criação da estrutura de pastas
+## Instalation
+
+```js
+ npx expo init imhere --npm
+expo start --tunnel
+
+```
 
 ## Componentização de elementos utilizando props
 
